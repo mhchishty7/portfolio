@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+html.sr .load-hidden {
+  visibility: hidden;
+}
+
+a.nav-link {
+  color: #212529;   
+}
+
+footer a {
+  color: #fff;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "DM Serif Display", serif;
+}
+
+i {
+  padding: 0 5px 0 5px;
+}
+
+#hero {
+  height: 100vh;
+}
