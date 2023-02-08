@@ -30,3 +30,6 @@ i {
 #hero {
   height: 100vh;
 }
+.textbox {
+  font-weight: 1000;
+}
